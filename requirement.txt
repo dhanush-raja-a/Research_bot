@@ -1,0 +1,6 @@
+langchain
+groq
+python-dotenv
+pypdf
+faiss-cpu
+langchain-groq
